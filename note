@@ -4,3 +4,7 @@ Package swiftmailer/swiftmailer is abandoned, you should avoid using it. Use sym
 Package fzaninotto/faker is abandoned, you should avoid using it. No replacement was suggested.
 Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
 --- the were all removed
+updated laravel version to 10.10
+Guzzle to 7.2 from 6.3
+Fideloper/proxy removed
+tymon/jwt-auth - 2.0
