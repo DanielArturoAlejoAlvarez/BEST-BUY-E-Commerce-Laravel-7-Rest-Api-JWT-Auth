@@ -1,1 +1,6 @@
 changed PHP version to 8.1
+Package fruitcake/laravel-cors is abandoned, you should avoid using it. No replacement was suggested.
+Package swiftmailer/swiftmailer is abandoned, you should avoid using it. Use symfony/mailer instead.
+Package fzaninotto/faker is abandoned, you should avoid using it. No replacement was suggested.
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+--- the were all removed
